@@ -1,6 +1,7 @@
 # Weather App
 
 This application is a simple web client that allows users to check real-time weather data for any location.
+Check it out live on [weatherboardapp.netlify.app](https://weatherboardapp.netlify.app/)!
 
 ## Features
 
