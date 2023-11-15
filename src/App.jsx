@@ -27,8 +27,7 @@ export default function App() {
       const options = {
         method: "GET",
         headers: {
-          "X-RapidAPI-Key":
-            "188bc506admsha3d2c87e0c98154p1ae261jsn674c6ec78a99",
+          "X-RapidAPI-Key": import.meta.env.VITE_WEATHER_API_KEY,
           "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com",
         },
       };
